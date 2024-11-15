@@ -3,11 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java_study_progress_newbie.iml" filepath="$PROJECT_DIR$/Java_study_progress_newbie.iml" />
-      <module fileurl="file://$PROJECT_DIR$/test_newbie_0001/test_newbie_0001.iml" filepath="$PROJECT_DIR$/test_newbie_0001/test_newbie_0001.iml" />
-      <module fileurl="file://$PROJECT_DIR$/test_newbie_0002/test_newbie_0002.iml" filepath="$PROJECT_DIR$/test_newbie_0002/test_newbie_0002.iml" />
-      <module fileurl="file://$PROJECT_DIR$/test_newbie_0003/test_newbie_0003.iml" filepath="$PROJECT_DIR$/test_newbie_0003/test_newbie_0003.iml" />
-      <module fileurl="file://$PROJECT_DIR$/test_newbie_0004/test_newbie_0004.iml" filepath="$PROJECT_DIR$/test_newbie_0004/test_newbie_0004.iml" />
-      <module fileurl="file://$PROJECT_DIR$/test_newbie_0005/test_newbie_0005.iml" filepath="$PROJECT_DIR$/test_newbie_0005/test_newbie_0005.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test_First/test_newbie_0001/test_newbie_0001.iml" filepath="$PROJECT_DIR$/Test_First/test_newbie_0001/test_newbie_0001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test_First/test_newbie_0002/test_newbie_0002.iml" filepath="$PROJECT_DIR$/Test_First/test_newbie_0002/test_newbie_0002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test_First/test_newbie_0003/test_newbie_0003.iml" filepath="$PROJECT_DIR$/Test_First/test_newbie_0003/test_newbie_0003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test_First/test_newbie_0004/test_newbie_0004.iml" filepath="$PROJECT_DIR$/Test_First/test_newbie_0004/test_newbie_0004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test_First/test_newbie_0005/test_newbie_0005.iml" filepath="$PROJECT_DIR$/Test_First/test_newbie_0005/test_newbie_0005.iml" />
     </modules>
   </component>
 </project>
