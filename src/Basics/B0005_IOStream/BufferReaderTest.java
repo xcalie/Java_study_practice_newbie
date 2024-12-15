@@ -10,7 +10,7 @@ import java.io.IOException;
 
 public class BufferReaderTest {
     @Setter
-    private String filePathInput = "src/Basics/B0005_IOStream/test.txt";
+    private String filePathInput = "src/Basics/B0005_IOStream/init.txt";
 
     /**
      * 缓冲字符输入流
